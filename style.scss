@@ -38,6 +38,10 @@ body {
       margin-bottom: 1rem;
     }
 
+    *:last-child {
+      margin-bottom: 0;
+    }
+
     p {
       color: black;
     }

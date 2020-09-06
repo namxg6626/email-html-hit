@@ -39,6 +39,10 @@ body {
   margin-bottom: 1rem;
 }
 
+.webpage .modal *:last-child {
+  margin-bottom: 0;
+}
+
 .webpage .modal p {
   color: black;
 }
